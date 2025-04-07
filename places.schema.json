@@ -28,13 +28,9 @@
               "required": ["name", "type"]
             },
             "description": "Array of places mentioned in the title"
-          },
-          "difficulty": {
-            "type": "string",
-            "description": "Notes about challenges in identifying places in the title"
           }
         },
-        "required": ["title", "places", "difficulty"]
+        "required": ["title", "places"]
       }
     }
   },
