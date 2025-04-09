@@ -1,0 +1,188 @@
+{
+    "articles": [
+        {
+            "title": "John 'Paddy' Hemingway (105) overleden, laatste held van Battle of Britain in WO II",
+            "places": [
+                {
+                    "name": "Groot-Brittannië",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Kortrijk lanceert fietscampagne 'Velo Vibe' om inwoners aan te zetten vaker te fietsen",
+            "places": [
+                {
+                    "name": "Kortrijk",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Voormalig burgemeester van Staden Francesco Vanderjeugd veroordeeld tot 1 jaar cel met uitstel voor verduistering en belangenvermenging",
+            "places": [
+                {
+                    "name": "Staden",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "'The shining' in het echt? Teamlid uit Zuid-Afrika valt collega's aan op geïsoleerde basis op Antarctica",
+            "places": [
+                {
+                    "name": "Zuid-Afrika",
+                    "type": "country"
+                },
+                {
+                    "name": "Antarctica",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Stad Brussel geeft taalpremie van 155 euro aan onderwijzers die Frans kunnen geven",
+            "places": [
+                {
+                    "name": "Brussel",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "\"Rusland bereidt zich voor op confrontatie met Europa\", waarschuwt Europees Commissievoorzitter Von der Leyen",
+            "places": [
+                {
+                    "name": "Rusland",
+                    "type": "country"
+                },
+                {
+                    "name": "Europa",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Congolese M23-rebellen nemen dan toch niet deel aan vredesgesprekken in Angola",
+            "places": [
+                {
+                    "name": "Congo",
+                    "type": "country"
+                },
+                {
+                    "name": "Angola",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Pommelien Thijs, Koen Wauters, Nora Gharib en meer dan 100 BV's spreken zich uit tegen Israëlisch geweld: \"België kan en moet meer doen\"",
+            "places": [
+                {
+                    "name": "Israël",
+                    "type": "country"
+                },
+                {
+                    "name": "België",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+            "places": [
+                {
+                    "name": "Vlaanderen",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+            "places": [
+                {
+                    "name": "Vlaanderen",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "EU komt met details herbewapeningplan: defensiemiljarden mogen buiten begrotingsdoelstellingen",
+            "places": [
+                {
+                    "name": "Europa",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Bekende professor UGent in opspraak na beschuldiging van grensoverschrijdend gedrag in 2011, universiteit reageert: \"We hebben toen gefaald\"",
+            "places": []
+        },
+        {
+            "title": "Europese Commissie komt met actieplan om kreunende staalsector te helpen",
+            "places": [
+                {
+                    "name": "Europa",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Chipszakken moeten kraken, anders zouden we chips niet lekker meer vinden",
+            "places": []
+        },
+        {
+            "title": "Brandende Cybertrucks en wagens beklad met hakenkruizen: golf\nvan vandalisme tegen Tesla",
+            "places": []
+        },
+        {
+            "title": "Van reusachtig groot tot onooglijk klein: maak kennis met de hoofdrolspelers uit 'De wilde Noordzee'",
+            "places": [
+                {
+                    "name": "Noordzee",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Donald Trump en Vladimir Poetin bellen elkaar, hoe verloopt een gesprek tussen zulke wereldleiders?",
+            "places": []
+        },
+        {
+            "title": "9-jarig meisje in kuit gebeten door loslopende hond in Ter Kamerenbos in Elsene",
+            "places": [
+                {
+                    "name": "Elsene",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Actievoerders protesteren aan Provinciehuis tegen plannen voor nieuwe verbindingsweg tussen Slijpe en centrum Middelkerke",
+            "places": [
+                {
+                    "name": "Slijpe",
+                    "type": "municipality"
+                },
+                {
+                    "name": "Middelkerke",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Burgemeester Pieter De Crem laat niet-Belgen 9 keer langer wachten dan Belgen op domiciliëring in Aalter",
+            "places": [
+                {
+                    "name": "België",
+                    "type": "country"
+                },
+                {
+                    "name": "Aalter",
+                    "type": "municipality"
+                }
+            ]
+        }
+    ]
+}

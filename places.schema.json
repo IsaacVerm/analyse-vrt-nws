@@ -21,7 +21,7 @@
                 },
                 "type": {
                   "type": "string",
-                  "enum": ["municipality", "country", "province", "other"],
+                  "enum": ["municipality", "region", "country"],
                   "description": "Type of place (municipality, country, province, or other)"
                 }
               },
