@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "The news article title"
+          },
+          "places": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "description": "Name of the place mentioned in the title"
+                },
+                "type": {
+                  "type": "string",
+                  "enum": ["municipality", "region", "country"],
+                  "description": "Type of place (municipality, country, province, or other)"
+                }
+              },
+              "required": ["name", "type"]
+            },
+            "description": "Array of places mentioned in the title"
+          }
+        },
+        "required": ["title", "places"]
+      }
+    }
+  },
+  "required": ["articles"]
+}

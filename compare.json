@@ -1,0 +1,320 @@
+[
+  {
+    "title": "John 'Paddy' Hemingway (105) overleden, laatste held van Battle of Britain in WO II",
+    "golden_standard_places": [
+      {
+        "name": "Groot-Brittannië",
+        "type": "country",
+        "difficulty": "Even if country name is not in Dutch (Britain in this case), you should extract it as Dutch name (Groot-Brittannië in this case)."
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Groot-Brittannië",
+        "type": "country"
+      }
+    ]
+  },
+  {
+    "title": "Kortrijk lanceert fietscampagne 'Velo Vibe' om inwoners aan te zetten vaker te fietsen",
+    "golden_standard_places": [
+      {
+        "name": "Kortrijk",
+        "type": "municipality",
+        "difficulty": null
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Kortrijk",
+        "type": "municipality"
+      }
+    ]
+  },
+  {
+    "title": "'The shining' in het echt? Teamlid uit Zuid-Afrika valt collega's aan op geïsoleerde basis op Antarctica",
+    "golden_standard_places": [
+      {
+        "name": "Zuid-Afrika",
+        "type": "country",
+        "difficulty": null
+      },
+      {
+        "name": "Antarctica",
+        "type": "region",
+        "difficulty": null
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Zuid-Afrika",
+        "type": "country"
+      },
+      {
+        "name": "Antarctica",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Stad Brussel geeft taalpremie van 155 euro aan onderwijzers die Frans kunnen geven",
+    "golden_standard_places": [
+      {
+        "name": "Brussel",
+        "type": "municipality",
+        "difficulty": null
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Brussel",
+        "type": "municipality"
+      }
+    ]
+  },
+  {
+    "title": "\"Rusland bereidt zich voor op confrontatie met Europa\", waarschuwt Europees Commissievoorzitter Von der Leyen",
+    "golden_standard_places": [
+      {
+        "name": "Rusland",
+        "type": "country",
+        "difficulty": null
+      },
+      {
+        "name": "Europa",
+        "type": "region",
+        "difficulty": null
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Rusland",
+        "type": "country"
+      },
+      {
+        "name": "Europa",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Congolese M23-rebellen nemen dan toch niet deel aan vredesgesprekken in Angola",
+    "golden_standard_places": [
+      {
+        "name": "Congo",
+        "type": "country",
+        "difficulty": "Country in adjective form."
+      },
+      {
+        "name": "Angola",
+        "type": "country",
+        "difficulty": null
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Congo",
+        "type": "country"
+      },
+      {
+        "name": "Angola",
+        "type": "country"
+      }
+    ]
+  },
+  {
+    "title": "Pommelien Thijs, Koen Wauters, Nora Gharib en meer dan 100 BV's spreken zich uit tegen Israëlisch geweld: \"België kan en moet meer doen\"",
+    "golden_standard_places": [
+      {
+        "name": "Israël",
+        "type": "country",
+        "difficulty": "Country in adjective form."
+      },
+      {
+        "name": "België",
+        "type": "country"
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Israël",
+        "type": "country"
+      },
+      {
+        "name": "België",
+        "type": "country"
+      }
+    ]
+  },
+  {
+    "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+    "golden_standard_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region",
+        "difficulty": "Region in adjective form."
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+    "golden_standard_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region",
+        "difficulty": "Region in adjective form."
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+    "golden_standard_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region",
+        "difficulty": "Region in adjective form."
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+    "golden_standard_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region",
+        "difficulty": "Region in adjective form."
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Vlaanderen",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "EU komt met details herbewapeningplan: defensiemiljarden mogen buiten begrotingsdoelstellingen",
+    "golden_standard_places": [],
+    "found_places": [
+      {
+        "name": "Europa",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Bekende professor UGent in opspraak na beschuldiging van grensoverschrijdend gedrag in 2011, universiteit reageert: \"We hebben toen gefaald\"",
+    "golden_standard_places": [],
+    "found_places": []
+  },
+  {
+    "title": "Europese Commissie komt met actieplan om kreunende staalsector te helpen",
+    "golden_standard_places": [],
+    "found_places": [
+      {
+        "name": "Europa",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Brandende Cybertrucks en wagens beklad met hakenkruizen: golf\nvan vandalisme tegen Tesla",
+    "golden_standard_places": [],
+    "found_places": []
+  },
+  {
+    "title": "Van reusachtig groot tot onooglijk klein: maak kennis met de hoofdrolspelers uit 'De wilde Noordzee'",
+    "golden_standard_places": [],
+    "found_places": [
+      {
+        "name": "Noordzee",
+        "type": "region"
+      }
+    ]
+  },
+  {
+    "title": "Donald Trump en Vladimir Poetin bellen elkaar, hoe verloopt een gesprek tussen zulke wereldleiders?",
+    "golden_standard_places": [],
+    "found_places": []
+  },
+  {
+    "title": "9-jarig meisje in kuit gebeten door loslopende hond in Ter Kamerenbos in Elsene",
+    "golden_standard_places": [
+      {
+        "name": "Elsene",
+        "type": "municipality"
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Elsene",
+        "type": "municipality"
+      }
+    ]
+  },
+  {
+    "title": "Actievoerders protesteren aan Provinciehuis tegen plannen voor nieuwe verbindingsweg tussen Slijpe en centrum Middelkerke",
+    "golden_standard_places": [
+      {
+        "name": "Middelkerke",
+        "type": "municipality"
+      },
+      {
+        "name": "Slijpe",
+        "type": "municipality"
+      }
+    ],
+    "found_places": [
+      {
+        "name": "Slijpe",
+        "type": "municipality"
+      },
+      {
+        "name": "Middelkerke",
+        "type": "municipality"
+      }
+    ]
+  },
+  {
+    "title": "Burgemeester Pieter De Crem laat niet-Belgen 9 keer langer wachten dan Belgen op domiciliëring in Aalter",
+    "golden_standard_places": [
+      {
+        "name": "Aalter",
+        "type": "municipality"
+      },
+      {
+        "name": "België",
+        "type": "country",
+        "difficulty": "Nationality Belg refers to country België, so Belgieë should be extracted."
+      }
+    ],
+    "found_places": [
+      {
+        "name": "België",
+        "type": "country"
+      },
+      {
+        "name": "Aalter",
+        "type": "municipality"
+      }
+    ]
+  }
+]
