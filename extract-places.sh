@@ -1,4 +1,4 @@
-cat golden-standard-places.json | jq '.[].title' | llm --schema places.schema.json "
+cat golden-standard-example-places-to-extract.json | jq '.[].title' | llm --schema places.schema.json "
 Extract places mentioned in these articles titles.
 Keep the following guidelines in mind:
 - only extract municipalities (e.g. Gent), regions (e.g. Europa) and countries (e.g. Nederland),
