@@ -1,13 +1,138 @@
 [
     {
+        "title": "John 'Paddy' Hemingway (105) overleden, laatste held van Battle of Britain in WO II",
+        "places": [
+            {
+                "name": "Groot-Brittannië",
+                "type": "country",
+                "difficulty": "Even if country name is not in Dutch (Britain in this case), you should extract it as Dutch name (Groot-Brittannië in this case)."
+            }
+        ]
+    },
+    {
+        "title": "Kortrijk lanceert fietscampagne 'Velo Vibe' om inwoners aan te zetten vaker te fietsen",
+        "places": [
+            {
+                "name": "Kortrijk",
+                "type": "municipality",
+                "difficulty": null
+            }
+        ]
+    },
+    {
         "title": "Voormalig burgemeester van Staden Francesco Vanderjeugd veroordeeld tot 1 jaar cel met uitstel voor verduistering en belangenvermenging  ",
         "places": [
             {
                 "name": "Staden",
-                "type": "municipality"
+                "type": "municipality",
+                "difficulty": null
             }
+        ]
+    },
+    {
+        "title": "'The shining' in het echt? Teamlid uit Zuid-Afrika valt collega's aan op geïsoleerde basis op Antarctica",
+        "places": [
+            {
+                "name": "Zuid-Afrika",
+                "type": "country",
+                "difficulty": null
+            },
+            {
+                "name": "Antarctica",
+                "type": "region",
+                "difficulty": null
+            }
+        ]
+    },
+    {
+        "title": "Stad Brussel geeft taalpremie van 155 euro aan onderwijzers die Frans kunnen geven",
+        "places": [
+            {
+                "name": "Brussel",
+                "type": "municipality",
+                "difficulty": null
+            }
+        ]
+    },
+    {
+        "title": "\"Rusland bereidt zich voor op confrontatie met Europa\", waarschuwt Europees Commissievoorzitter Von der Leyen",
+        "places": [
+            {
+                "name": "Rusland",
+                "type": "country",
+                "difficulty": null
+            },
+            {
+                "name": "Europa",
+                "type": "region",
+                "difficulty": null
+            }
+        ]
+    },
+    {
+        "title": "Congolese M23-rebellen nemen dan toch niet deel aan vredesgesprekken in Angola",
+        "places": [
+            {
+                "name": "Congo",
+                "type": "country",
+                "difficulty": "Country in adjective form."
+            },
+            {
+                "name": "Angola",
+                "type": "country",
+                "difficulty": null
+            }
+        ]
+    },
+    {
+        "title": "Pommelien Thijs, Koen Wauters, Nora Gharib en meer dan 100 BV's spreken zich uit tegen Israëlisch geweld: \"België kan en moet meer doen\"",
+        "places": [
+            {
+                "name": "Israël",
+                "type": "country",
+                "difficulty": "Country in adjective form."
+            },
+            {
+                "name": "België",
+                "type": "country"
+            }
+        ]
+    },
+    {
+        "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+        "places": [
+            {
+                "name": "Vlaanderen",
+                "type": "region",
+                "difficulty": "Region in adjective form."
+            }
+        ]
+    },
+    {
+        "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+        "places": [
+            {
+                "name": "Vlaanderen",
+                "type": "region",
+                "difficulty": "Region in adjective form."
+            }
+        ]
+    },
+    {
+        "title": "EU komt met details herbewapeningplan: defensiemiljarden mogen buiten begrotingsdoelstellingen",
+        "places": [
         ],
-        "difficulty": "Long title."
+        "difficulty": "Name place in organisation (E for Europa in EU abbreviation) should not be considered as a place. "
+    },
+    {
+        "title": "Bekende professor UGent in opspraak na beschuldiging van grensoverschrijdend gedrag in 2011, universiteit reageert: \"We hebben toen gefaald\"",
+        "places": [],
+        "difficulty": "Name place in organisation (Gent in UGent) should not be considered as a place."
+    },
+    {
+        "title": "Europese Commissie komt met actieplan om kreunende staalsector te helpen",
+        "places": [],
+        "difficulty": "Name place in organisation (Europa in Europese Commissie) should not be considered as a place. "
     },
     {
         "title": "Chipszakken moeten kraken, anders zouden we chips niet lekker meer vinden ",
@@ -15,62 +140,19 @@
         "difficulty": "No places mentioned in title."
     },
     {
-        "title": "Congolese M23-rebellen nemen dan toch niet deel aan vredesgesprekken in Angola",
-        "places": [
-            {
-                "name": "Congo",
-                "type": "country"
-            },
-            {
-                "name": "Angola",
-                "type": "country"
-            }
-        ],
-        "difficulty": "Congolese is adjective form of place name Congo."
+        "title": "Brandende Cybertrucks en wagens beklad met hakenkruizen: golf\nvan vandalisme tegen Tesla",
+        "places": [],
+        "difficulty": "No places mentioned in title."
     },
     {
         "title": "Van reusachtig groot tot onooglijk klein: maak kennis met de hoofdrolspelers uit 'De wilde Noordzee'",
-        "places": [
-            {
-                "name": "Noordzee",
-                "type": "other"
-            }
-        ],
-        "difficulty": "Noordzee is a place mentioned as part of film title 'De wilde Noordzee' and is of type other."
-    },
-    {
-        "title": "Europese Commissie komt met actieplan om kreunende staalsector te helpen",
         "places": [],
-        "difficulty": "Europese Commissie is fixed phrase, no specific focus on place Europe."
+        "difficulty": "Places mentioned as part of artistic works should not be extracted."
     },
     {
         "title": "Donald Trump en Vladimir Poetin bellen elkaar, hoe verloopt een gesprek tussen zulke wereldleiders?",
         "places": [],
-        "difficulty": "Although they both represent countries, the countries aren't mentioned explicitly in the title."
-    },
-    {
-        "title": "Pommelien Thijs, Koen Wauters, Nora Gharib en meer dan 100 BV's spreken zich uit tegen Israëlisch geweld: \"België kan en moet meer doen\"",
-        "places": [
-            {
-                "name": "Israël",
-                "type": "country"
-            },
-            {
-                "name": "België",
-                "type": "country"
-            }
-        ],
-        "difficulty": "Israëlisch is adjective form of place name Israël."
-    },
-    {
-        "title": "Stad Brussel geeft taalpremie van 155 euro aan onderwijzers die Frans kunnen geven",
-        "places": [
-            {
-                "name": "Brussel",
-                "type": "municipality"
-            }
-        ],
-        "difficulty": ""
+        "difficulty": "Although both Trump and Putin represent countries, the countries aren't mentioned explicitly in the title so shouldn't be extracted."
     },
     {
         "title": "9-jarig meisje in kuit gebeten door loslopende hond in Ter Kamerenbos in Elsene",
@@ -78,27 +160,9 @@
             {
                 "name": "Elsene",
                 "type": "municipality"
-            },
-            {
-                "name": "Ter Kamerenbos",
-                "type": "other"
             }
         ],
-        "difficulty": "Ter Kamerenbos isn't a municipality, province or country."
-    },
-    {
-        "title": "\"Rusland bereidt zich voor op confrontatie met Europa\", waarschuwt Europees Commissievoorzitter Von der Leyen",
-        "places": [
-            {
-                "name": "Rusland",
-                "type": "country"
-            },
-            {
-                "name": "Europa",
-                "type": "other"
-            }
-        ],
-        "difficulty": "Europa isn't a country, but a continent."
+        "difficulty": "Ter Kamerenbos isn't a municipality, region or country so should not be extracted."
     },
     {
         "title": "Actievoerders protesteren aan Provinciehuis tegen plannen voor nieuwe verbindingsweg tussen Slijpe en centrum Middelkerke",
@@ -110,26 +174,22 @@
             {
                 "name": "Slijpe",
                 "type": "municipality"
-            },
-            {
-                "name": "Provinciehuis",
-                "type": "other"
             }
         ],
-        "difficulty": "Provinciehuis is not a municipality, province or country."
+        "difficulty": "Provinciehuis isn't a municipality, region or country so should not be extracted."
     },
     {
-        "title": "'The shining' in het echt? Teamlid uit Zuid-Afrika valt collega's aan op geïsoleerde basis op Antarctica",
+        "title": "Burgemeester Pieter De Crem laat niet-Belgen 9 keer langer wachten dan Belgen op domiciliëring in Aalter",
         "places": [
             {
-                "name": "Zuid-Afrika",
-                "type": "country"
+                "name": "Aalter",
+                "type": "municipality"
             },
             {
-                "name": "Antarctica",
-                "type": "other"
+                "name": "België",
+                "type": "country",
+                "difficulty": "Nationality Belg refers to country België, so Belgieë should be extracted."
             }
-        ],
-        "difficulty": "Antarctica is not a country, but a continent."
+        ]
     }
 ]
