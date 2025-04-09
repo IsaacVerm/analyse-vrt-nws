@@ -108,12 +108,7 @@
         },
         {
             "title": "EU komt met details herbewapeningplan: defensiemiljarden mogen buiten begrotingsdoelstellingen",
-            "places": [
-                {
-                    "name": "Europa",
-                    "type": "region"
-                }
-            ]
+            "places": []
         },
         {
             "title": "Bekende professor UGent in opspraak na beschuldiging van grensoverschrijdend gedrag in 2011, universiteit reageert: \"We hebben toen gefaald\"",
@@ -121,12 +116,7 @@
         },
         {
             "title": "Europese Commissie komt met actieplan om kreunende staalsector te helpen",
-            "places": [
-                {
-                    "name": "Europa",
-                    "type": "region"
-                }
-            ]
+            "places": []
         },
         {
             "title": "Chipszakken moeten kraken, anders zouden we chips niet lekker meer vinden",
@@ -135,15 +125,6 @@
         {
             "title": "Brandende Cybertrucks en wagens beklad met hakenkruizen: golf\nvan vandalisme tegen Tesla",
             "places": []
-        },
-        {
-            "title": "Van reusachtig groot tot onooglijk klein: maak kennis met de hoofdrolspelers uit 'De wilde Noordzee'",
-            "places": [
-                {
-                    "name": "Noordzee",
-                    "type": "region"
-                }
-            ]
         },
         {
             "title": "Donald Trump en Vladimir Poetin bellen elkaar, hoe verloopt een gesprek tussen zulke wereldleiders?",
