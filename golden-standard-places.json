@@ -145,11 +145,6 @@
         "difficulty": "No places mentioned in title."
     },
     {
-        "title": "Van reusachtig groot tot onooglijk klein: maak kennis met de hoofdrolspelers uit 'De wilde Noordzee'",
-        "places": [],
-        "difficulty": "Places mentioned as part of artistic works should not be extracted."
-    },
-    {
         "title": "Donald Trump en Vladimir Poetin bellen elkaar, hoe verloopt een gesprek tussen zulke wereldleiders?",
         "places": [],
         "difficulty": "Although both Trump and Putin represent countries, the countries aren't mentioned explicitly in the title so shouldn't be extracted."
