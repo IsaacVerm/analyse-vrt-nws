@@ -1,24 +1,6 @@
 {
     "articles": [
         {
-            "title": "John 'Paddy' Hemingway (105) overleden, laatste held van Battle of Britain in WO II",
-            "places": [
-                {
-                    "name": "Groot-Brittannië",
-                    "type": "country"
-                }
-            ]
-        },
-        {
-            "title": "Kortrijk lanceert fietscampagne 'Velo Vibe' om inwoners aan te zetten vaker te fietsen",
-            "places": [
-                {
-                    "name": "Kortrijk",
-                    "type": "municipality"
-                }
-            ]
-        },
-        {
             "title": "Voormalig burgemeester van Staden Francesco Vanderjeugd veroordeeld tot 1 jaar cel met uitstel voor verduistering en belangenvermenging",
             "places": [
                 {
@@ -28,15 +10,65 @@
             ]
         },
         {
-            "title": "'The shining' in het echt? Teamlid uit Zuid-Afrika valt collega's aan op geïsoleerde basis op Antarctica",
+            "title": "Chipszakken moeten kraken, anders zouden we chips niet lekker meer vinden",
+            "places": []
+        },
+        {
+            "title": "Congolese M23-rebellen nemen dan toch niet deel aan vredesgesprekken in Angola",
             "places": [
                 {
-                    "name": "Zuid-Afrika",
+                    "name": "Congo",
                     "type": "country"
                 },
                 {
-                    "name": "Antarctica",
-                    "type": "region"
+                    "name": "Angola",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Van reusachtig groot tot onooglijk klein: maak kennis met de hoofdrolspelers uit 'De wilde Noordzee'",
+            "places": []
+        },
+        {
+            "title": "Europese Commissie komt met actieplan om kreunende staalsector te helpen",
+            "places": []
+        },
+        {
+            "title": "Donald Trump en Vladimir Poetin bellen elkaar, hoe verloopt een gesprek tussen zulke wereldleiders?",
+            "places": []
+        },
+        {
+            "title": "Hulplijn 1712 kreeg opnieuw meer oproepen, vooral over kindermishandeling en partnergeweld: \"Omstaanders zijn cruciaal\"",
+            "places": []
+        },
+        {
+            "title": "Steeds meer mensen laten zorgvolmacht opstellen: \"Zonder mocht ik niet eens nieuwe koelkast kopen zonder toestemming van vrederechter\"",
+            "places": []
+        },
+        {
+            "title": "Pommelien Thijs, Koen Wauters, Nora Gharib en meer dan 100 BV's spreken zich uit tegen Israëlisch geweld: \"België kan en moet meer doen\"",
+            "places": [
+                {
+                    "name": "Israël",
+                    "type": "country"
+                },
+                {
+                    "name": "België",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Slagers oefenen in Antwerpse school PIVA voor WK slagerij in Parijs: 350 kilogram vlees versnijden en verwerken in 3,5 uur tijd",
+            "places": [
+                {
+                    "name": "Antwerpen",
+                    "type": "municipality"
+                },
+                {
+                    "name": "Parijs",
+                    "type": "municipality"
                 }
             ]
         },
@@ -45,6 +77,42 @@
             "places": [
                 {
                     "name": "Brussel",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "2 jongeren krijgen van jeugdrechtbank berisping voor brand in Beringen waarbij 2 brandweermannen het leven lieten",
+            "places": [
+                {
+                    "name": "Beringen",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "2 mannen en 1 vrouw opgepakt in Genk na huiszoekingen in drugsonderzoek",
+            "places": [
+                {
+                    "name": "Genk",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "612 migranten gered en 18 lichamen geborgen voor kust Tunesië",
+            "places": [
+                {
+                    "name": "Tunesië",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "9-jarig meisje in kuit gebeten door loslopende hond in Ter Kamerenbos in Elsene",
+            "places": [
+                {
+                    "name": "Elsene",
                     "type": "municipality"
                 }
             ]
@@ -63,25 +131,8 @@
             ]
         },
         {
-            "title": "Congolese M23-rebellen nemen dan toch niet deel aan vredesgesprekken in Angola",
+            "title": "Aantal ongevallen met elektrische steps neemt gevoelig toe in België",
             "places": [
-                {
-                    "name": "Congo",
-                    "type": "country"
-                },
-                {
-                    "name": "Angola",
-                    "type": "country"
-                }
-            ]
-        },
-        {
-            "title": "Pommelien Thijs, Koen Wauters, Nora Gharib en meer dan 100 BV's spreken zich uit tegen Israëlisch geweld: \"België kan en moet meer doen\"",
-            "places": [
-                {
-                    "name": "Israël",
-                    "type": "country"
-                },
                 {
                     "name": "België",
                     "type": "country"
@@ -89,53 +140,15 @@
             ]
         },
         {
-            "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
+            "title": "Protest tegen rederij Maersk voor havenhuis in Antwerpen: \"Stop met wapens en tanks naar Israël te vervoeren\"",
             "places": [
                 {
-                    "name": "Vlaanderen",
-                    "type": "region"
-                }
-            ]
-        },
-        {
-            "title": "Vlaamse regering wil meer ruimte voor windmolens en zonnepanelen op landbouwgrond",
-            "places": [
-                {
-                    "name": "Vlaanderen",
-                    "type": "region"
-                }
-            ]
-        },
-        {
-            "title": "EU komt met details herbewapeningplan: defensiemiljarden mogen buiten begrotingsdoelstellingen",
-            "places": []
-        },
-        {
-            "title": "Bekende professor UGent in opspraak na beschuldiging van grensoverschrijdend gedrag in 2011, universiteit reageert: \"We hebben toen gefaald\"",
-            "places": []
-        },
-        {
-            "title": "Europese Commissie komt met actieplan om kreunende staalsector te helpen",
-            "places": []
-        },
-        {
-            "title": "Chipszakken moeten kraken, anders zouden we chips niet lekker meer vinden",
-            "places": []
-        },
-        {
-            "title": "Brandende Cybertrucks en wagens beklad met hakenkruizen: golf\nvan vandalisme tegen Tesla",
-            "places": []
-        },
-        {
-            "title": "Donald Trump en Vladimir Poetin bellen elkaar, hoe verloopt een gesprek tussen zulke wereldleiders?",
-            "places": []
-        },
-        {
-            "title": "9-jarig meisje in kuit gebeten door loslopende hond in Ter Kamerenbos in Elsene",
-            "places": [
-                {
-                    "name": "Elsene",
+                    "name": "Antwerpen",
                     "type": "municipality"
+                },
+                {
+                    "name": "Israël",
+                    "type": "country"
                 }
             ]
         },
@@ -153,17 +166,282 @@
             ]
         },
         {
-            "title": "Burgemeester Pieter De Crem laat niet-Belgen 9 keer langer wachten dan Belgen op domiciliëring in Aalter",
+            "title": "Amerikaanse opperrechter tikt president Trump op de vingers",
             "places": [
                 {
-                    "name": "België",
+                    "name": "Amerika",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "'The shining' in het echt? Teamlid uit Zuid-Afrika valt collega's aan op geïsoleerde basis op Antarctica",
+            "places": [
+                {
+                    "name": "Zuid-Afrika",
                     "type": "country"
                 },
                 {
-                    "name": "Aalter",
+                    "name": "Antarctica",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Auto brandt uit op E403: lange file richting Kortrijk",
+            "places": [
+                {
+                    "name": "Kortrijk",
                     "type": "municipality"
                 }
             ]
+        },
+        {
+            "title": "Bewoners van Antwerpse Linkeroever gooien brandende matras van 9e verdieping en voorkomen appartementsbrand",
+            "places": [
+                {
+                    "name": "Antwerpen",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Net Brussel houdt 'Grote lenteschoonmaak' tegen zwerfvuil",
+            "places": [
+                {
+                    "name": "Brussel",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Gentse burgemeester dient klacht in tegen radicaal-rechtse studentenvereniging NSV! omwille van pamflet:\"Geen plaats voor discriminatie in Gent\"",
+            "places": [
+                {
+                    "name": "Gent",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Burgemeester Maasmechelen sluit caféhotel Du Pont: \"Geen horecavergunning na reeks incidenten\"",
+            "places": [
+                {
+                    "name": "Maasmechelen",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Veel interesse voor burgerreserve in Edegem: \"Grote respons nog voor we gestart zijn\"",
+            "places": [
+                {
+                    "name": "Edegem",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Nederlander Cas König wordt nieuwe CEO van North Sea Port in Gent",
+            "places": [
+                {
+                    "name": "Nederland",
+                    "type": "country"
+                },
+                {
+                    "name": "Gent",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Chinees automerk BYD zegt systeem te hebben om autobatterij in 5 minuten op te laden: hoe realistisch is dat?",
+            "places": [
+                {
+                    "name": "China",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Cloë Dingenen uit Ichtegem wint Vlaamse Dierenwelzijnsprijs voor onderzoek naar gedragsproblemen bij asielhonden",
+            "places": [
+                {
+                    "name": "Ichtegem",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Congolese en Rwandese presidenten hebben rechtstreeks met elkaar gepraat",
+            "places": [
+                {
+                    "name": "Congo",
+                    "type": "country"
+                },
+                {
+                    "name": "Rwanda",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Dendermonde plant grootschalige restauratie Ros Beiaard tegen 2029",
+            "places": [
+                {
+                    "name": "Dendermonde",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Politie ontdekt drugslab in kelder Maaseik en arresteert 2 verdachten",
+            "places": [
+                {
+                    "name": "Maaseik",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Duitse elektroconcern Siemens wil wereldwijd 6.000 banen schrappen",
+            "places": [
+                {
+                    "name": "Duitsland",
+                    "type": "country"
+                }
+            ]
+        },
+        {
+            "title": "Eierprijs tikt nieuw record aan in ons land",
+            "places": []
+        },
+        {
+            "title": "\"Opereer mij niet, maar laat mij doodgaan\": Humo-journalist getuigt over de moeilijke weg naar euthanasie van zijn oma",
+            "places": []
+        },
+        {
+            "title": "Eigenaars van mysterieus fotoalbum uit bibliotheek van Keerbergen zijn terecht",
+            "places": [
+                {
+                    "name": "Keerbergen",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "GAIA protesteert in Brussel tegen bontindustrie met in scène gezette begrafenis",
+            "places": [
+                {
+                    "name": "Brussel",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Buurt weer vrijgegeven na gaslek aan Bijloke in Gent, ook verkeer opnieuw toegelaten",
+            "places": [
+                {
+                    "name": "Gent",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Zwaarste Israëlische aanval sinds begin staakt-het-vuren: \"Het lijkt erop dat Gaza opnieuw in oorlogsmodus is\"",
+            "places": [
+                {
+                    "name": "Israël",
+                    "type": "country"
+                },
+                {
+                    "name": "Gaza",
+                    "type": "region"
+                }
+            ]
+        },
+        {
+            "title": "Geen publiek internet meer in stadscentrum Sint-Niklaas: \"Data-abonnementen zijn veel goedkoper geworden\"",
+            "places": [
+                {
+                    "name": "Sint-Niklaas",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Nieuw bedrijfspark op militair domein in Leopoldsburg op de helling: \"Want Defensie wil er tanks stockeren\"",
+            "places": [
+                {
+                    "name": "Leopoldsburg",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Vlaams minister voor Welzijn Gennez wil strengere maatregelen voor geïnterneerden in woonzorgcentra, na steekincident in Dentergem: aanmeldingsplicht en risicoanalyse",
+            "places": [
+                {
+                    "name": "Vlaanderen",
+                    "type": "region"
+                },
+                {
+                    "name": "Dentergem",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Georgette (100) heropent café Rembrandt in Zoutleeuw voor verjaardagsfeest",
+            "places": [
+                {
+                    "name": "Zoutleeuw",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "'Gestrande' astronauten eindelijk onderweg naar huis: hoe 8 dagen in het ISS 9 maanden werden",
+            "places": []
+        },
+        {
+            "title": "Familie van doodzieke vrouw die in 19e eeuw wonderbaarlijk genas, schenkt kapel aan gemeente Grimbergen",
+            "places": [
+                {
+                    "name": "Grimbergen",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "\"750 bezwaren van burgers genegeerd\": Groen hekelt aanpak Antwerps stadsbestuur bij brokkelbruggen E313",
+            "places": [
+                {
+                    "name": "Antwerpen",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Kerk van Heffen krijgt nieuwe toren in 2027: stad Mechelen maakt 2,5 miljoen euro vrij",
+            "places": [
+                {
+                    "name": "Heffen",
+                    "type": "municipality"
+                },
+                {
+                    "name": "Mechelen",
+                    "type": "municipality"
+                }
+            ]
+        },
+        {
+            "title": "Resultaten groot bloedonderzoek rond 3M bekend: helft omwonenden heeft te veel PFAS in het bloed",
+            "places": []
+        },
+        {
+            "title": "Hoe het telefoongesprek tussen Trump en Poetin slechts een staakt-het-vuren 'light' opleverde",
+            "places": []
         }
     ]
 }

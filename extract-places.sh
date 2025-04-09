@@ -1,4 +1,4 @@
-cat golden-standard-example-places-to-extract.json | jq '.[].title' | llm --schema places.schema.json "
+cat article-titles.json | jq '.[0:50]' | jq '.[].title' | llm --schema places.schema.json "
 Extract places mentioned in these articles titles.
 Keep the following guidelines in mind:
 - only extract municipalities (e.g. Gent), regions (e.g. Europa) and countries (e.g. Nederland),
@@ -9,4 +9,4 @@ other places (e.g. Pannenhuis which refers to a specific place) shouldn't be ext
 - name place in organisation (e.g. Gent in UGent) should not be extracted as a place. For example Europese Commissie and EU are organisations as well, 
 so in these cases you shouldn't extract Europa as a place.
 - if someone is mentioned by nationality (e.g. Belg meaning someone from Belgium), do extract the place as a country
-"
+" > places-extracted.json
